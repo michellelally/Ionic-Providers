@@ -1,0 +1,8 @@
+{
+  "name": "providers-app",
+  "app_id": "9e84318c",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
